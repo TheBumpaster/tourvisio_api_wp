@@ -1,0 +1,14 @@
+#tourvisio_settings_form form ul li input{
+    border: none;
+}
+
+#tourvisio_settings_form form ul li input:active {
+    border: none;
+}
+
+#tourvisio_settings_form form ul li label{
+    font-size: small;
+    font-weight: lighter;
+    padding-left: 2%;
+}
+
